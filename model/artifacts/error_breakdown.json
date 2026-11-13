@@ -1,0 +1,44 @@
+[
+  {
+    "Actual AQI Band": "Good (0-50)",
+    "Samples": 2163,
+    "MAE": 20.8799991607666,
+    "Mean_Actual_AQI": 39.20000076293945,
+    "Mean_Predicted_AQI": 59.880001068115234
+  },
+  {
+    "Actual AQI Band": "Moderate (101-200)",
+    "Samples": 8633,
+    "MAE": 26.829999923706055,
+    "Mean_Actual_AQI": 137.32000732421875,
+    "Mean_Predicted_AQI": 151.2100067138672
+  },
+  {
+    "Actual AQI Band": "Poor (201-300)",
+    "Samples": 3026,
+    "MAE": 35.15999984741211,
+    "Mean_Actual_AQI": 247.6199951171875,
+    "Mean_Predicted_AQI": 239.9199981689453
+  },
+  {
+    "Actual AQI Band": "Satisfactory (51-100)",
+    "Samples": 8400,
+    "MAE": 19.239999771118164,
+    "Mean_Actual_AQI": 75.77999877929688,
+    "Mean_Predicted_AQI": 92.4800033569336
+  },
+  {
+    "Actual AQI Band": "Severe (>400)",
+    "Samples": 1125,
+    "MAE": 70.0199966430664,
+    "Mean_Actual_AQI": 491.2799987792969,
+    "Mean_Predicted_AQI": 448.4100036621094
+  },
+  {
+    "Actual AQI Band": "Very Poor (301-400)",
+    "Samples": 2790,
+    "MAE": 33.560001373291016,
+    "Mean_Actual_AQI": 338.9200134277344,
+    "Mean_Predicted_AQI": 324.3500061035156
+  }
+]
